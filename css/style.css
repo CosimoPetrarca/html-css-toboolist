@@ -146,6 +146,28 @@ body{
 
 }
 
+.box-website{
+    background-color:#D863A1;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    border: none;
+    
+
+}
+
+.box-sales{
+    background-color:#B0C926;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    border: none;
+    
+
+}
+
 .cerchio-rosso{
     display: inline-block;
     border: 2px solid red;
