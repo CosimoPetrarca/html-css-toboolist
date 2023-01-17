@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(246, 248, 249);
+    margin: 0%;
+}
+
+#conteiner-logo{
+    background-color: white;
+}
+
+#logo{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 30px;
+}
+
+.scritta-logo{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    vertical-align: middle;
+}
