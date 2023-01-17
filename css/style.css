@@ -109,6 +109,51 @@ body{
     width: 90px;
     border-radius: 25px;
     border: none;
-    font-family: 'Roboto', sans-serif;
+    
 
 }
+
+.box-goals{
+    background-color: #9C72E4;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    border: none;
+    
+
+}
+
+.box-recruiting{
+    background-color: #65C1AA;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    border: none;
+    
+
+}
+
+.box-mobile{
+    background-color:#F29E33;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    border: none;
+    
+
+}
+
+.cerchio-rosso{
+    display: inline-block;
+    border: 2px solid red;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: red;
+
+}
+
