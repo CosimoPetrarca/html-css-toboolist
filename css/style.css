@@ -57,6 +57,7 @@ body{
 }
 
 #box2{
+    background-color: white;
     height: 45px;
     width: 150px;
     border-radius: 10px;
@@ -64,4 +65,50 @@ body{
     text-align: center;
     font-size: 20px;
     border-color: rgb(189, 185, 185);
+}
+
+#conteiner-all{
+    background-color: white;
+    padding-left: 50px;
+    margin-top: 5px;
+    padding-top: 20px;
+    
+}
+
+.scritta-main{
+    font-size: 30px;
+}
+
+
+.cerchio{
+    display: inline-block;
+    border: 2px solid #65C1AA;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: #65C1AA;
+
+}
+
+.scritta{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+
+}
+
+.bottone-main{
+    display: inline-block;
+}
+
+.box-editorial{
+    background-color: rgb(71, 173, 241);
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+
 }
